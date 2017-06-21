@@ -1,3 +1,5 @@
 frosted flakes:
     put flakes in bowl
-    add milk
+    get spoon
+    add 2% milk
+
